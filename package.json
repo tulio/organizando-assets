@@ -1,0 +1,12 @@
+{
+	"name": "organizando-assets",
+	"version": "0.1.0",
+	"devDependencies": {
+		"grunt": "*",
+		"grunt-contrib-jshint": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-concat": "*",
+		"grunt-contrib-sass": "*"
+	}
+}
