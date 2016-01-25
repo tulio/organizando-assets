@@ -98,6 +98,9 @@ module.exports = function(grunt) {
 		scripts: {
 				files: ["assets/scss/**/*.scss", "assets/javascripts/**/*.js"]
 			,	tasks: ["dev"]
+			,	options: {
+      	livereload: true
+    	}
 		}, 
 		options: {
 			livereload: true
